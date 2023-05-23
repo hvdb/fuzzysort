@@ -12,6 +12,7 @@
   "author": "farzher",
   "license": "MIT",
   "main": "fuzzysort.js",
+  "type" : "module",
   "scripts": {
     "test": "node test.js"
   },
